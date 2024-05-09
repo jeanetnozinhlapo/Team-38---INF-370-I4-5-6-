@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DriveMaster-CyberSquad-API.props" />
+</Project>
